@@ -1,0 +1,5 @@
+__MACOSX/
+dataset_traffic_signs_40_samples_per_class/
+dataset_traffic_signs_40_samples_per_class.zip
+model.png
+.ipynb_checkpoints/
